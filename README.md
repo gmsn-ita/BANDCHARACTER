@@ -1,7 +1,7 @@
 # BANDCHARACTER
-Program to see the contribution of each orbital of each atom for a band, from VASP results. Version 1.1 MAR 2017
+Program to see the contribution of each orbital of each atom for an entire band, from VASP results. Version 1.1 MAR 2017
 
-This program sum the contribution of each orbital for each atom for all kpoints in a band. The results are given in percentage.
+This program sum the contribution of each orbital for each atom for ALL KPOINTS in a band. The results are given in percentage.
 The PROCAR and OUTCAR files of VASP are necessary. 
 
 Compile using:
