@@ -157,7 +157,7 @@ k=0;
 
 printf("NORMALIZED CONTRIBUTION OF EACH TYPE\n\n");
 
-for(l=0;l<5;l++){
+for(l=0;l<ntypes;l++){
 		k=k+types[l]; 
 		for(i=k-types[l];i<k;i++){
 			s[l]=s[l]+mtx[i][1];
